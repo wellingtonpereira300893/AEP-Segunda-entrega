@@ -1,0 +1,34 @@
+GRUPO GAIA - AEP 2a ENTREGA - PSE EM ACAO
+========================================
+
+O QUE JA ESTA PRONTO
+- Codigo C99 final, com menu de 1 a 6 e as operacoes da proposta.
+- README com compilacao e exemplos.
+- Relatorio final editavel em DOCX e tambem PDF (18 paginas).
+- Diagrama de casos de uso e fluxogramas revisados.
+- Matriz de testes: 16 verificacoes de comportamento aprovadas + compilacao.
+- Capturas reais das principais funcionalidades.
+- Roteiro da apresentacao com duracao proposta de 6 min 40 s.
+- Copia da primeira entrega, apenas como material de referencia.
+
+O QUE O GRUPO PRECISA FINALIZAR PESSOALMENTE
+1. Inserir os nomes verdadeiros dos integrantes, curso e turma na capa.
+2. Publicar o codigo e README no GitHub da equipe.
+3. Gravar o video (maximo 7 minutos), com os integrantes presentes.
+4. Colar no relatorio os links REAIS do GitHub e do video.
+5. Garantir que os links sejam acessiveis ao professor.
+6. Conferir formatacao institucional e outras orientacoes da disciplina.
+
+ARQUIVOS PRINCIPAIS
+- pse_em_acao.c
+- README.md
+- documentacao/Relatorio_Final_Grupo_Gaia_AEP2.docx
+- documentacao/Relatorio_Final_Grupo_Gaia_AEP2.pdf
+- documentacao/roteiro_video.md
+
+IMPORTANTE
+- A primeira entrega tem um pseudocodigo antigo; o codigo final revisado
+  nesta pasta deve ser considerado a versao para demonstracao e GitHub.
+- O resumo diario e a opcao 5, digitando a data. O resumo geral e G.
+- Os dados ficam somente na memoria durante a execucao do programa.
+- O video nao foi gravado e o repositorio nao foi publicado automaticamente.
